@@ -1,0 +1,3 @@
+<?php
+
+//node.tpl.php
