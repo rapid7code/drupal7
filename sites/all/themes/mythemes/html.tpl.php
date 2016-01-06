@@ -69,6 +69,8 @@ $_SESSION['access_token'] = rand(100000,999999);
   </div>
 
   <?php print $page; ?>
-
+  <div class="content">
+    content here
+  </div>
 </body>
 </html>
